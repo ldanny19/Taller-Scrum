@@ -29,7 +29,7 @@ Para:Tener actualizado la información de los productos que ofrecemos hacia los 
 - Validación de Producto
 
 # Evidencia Backlog del Proyecto
-![Taller_Scrum](spring_backlog.png)
+![Taller_Scrum](sprint_backlog.png)
 
 
 ## Equipo de Trabajo
@@ -38,10 +38,10 @@ Jersson Lamilla - Product Owner
 Paola Salvatierra - QA Tester
 Sheyla Lamilla - Scrum Master
 
-# Evidencia Spring Backlog del Product Owner
-
 # Evidencia Spring Backlog del Desarrollador
+![Taller_Scrum](sprint_desarrollador.png)
 
 # Evidencia Spring Backlog del QA
+![Taller_Scrum](sprint_qa.png)
 
 
