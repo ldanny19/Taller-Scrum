@@ -28,6 +28,20 @@ Para:Tener actualizado la información de los productos que ofrecemos hacia los 
 - Implementar la creación del producto
 - Validación de Producto
 
-# Evidencia
+# Evidencia Backlog del Proyecto
 ![Taller_Scrum](spring_backlog.png)
+
+
+## Equipo de Trabajo
+Alexi Lamilla -  Desarrollador
+Jersson Lamilla - Product Owner
+Paola Salvatierra - QA Tester
+Sheyla Lamilla - Scrum Master
+
+# Evidencia Spring Backlog del Product Owner
+
+# Evidencia Spring Backlog del Desarrollador
+
+# Evidencia Spring Backlog del QA
+
 
