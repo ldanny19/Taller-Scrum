@@ -29,4 +29,5 @@ Para:Tener actualizado la información de los productos que ofrecemos hacia los 
 - Validación de Producto
 
 # Evidencia
+![Taller_Scrum](spring_backlog.png)
 
