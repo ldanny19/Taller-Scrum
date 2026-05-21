@@ -1,47 +1,85 @@
 # Proyecto Scrum - Sistema de Inventario y Facturación Electrónica
 
-## Requerimiento
-Modulo Inventarios
+## Descripción
+Proyecto desarrollado utilizando metodología Scrum para la gestión de inventario y facturación electrónica mediante microservicios.
 
-Microservicios que permita llevar a cabo toda las funcionalidades correspondiente al control de inventario de los productos.
-Mantenimiento de los productos.
-Alcance
-Ingresos de productos por compras a proveedores o devoluciones de los clientes finales
-Egresos de productos por ventas a clientes o devoluciones a proveedores
-Reportes de Stock
-Reportes de Productos mas vendidos
+---
 
-## Épica
-Servicios para mantenimiento de los productos
+# Equipo de Trabajo
 
-Servicios backend que permita crear, modificar y/o eliminar los datos de un producto. 
+| Integrante | Rol |
+|---|---|
+| Alexi Lamilla | Desarrollador |
+| Jersson Lamilla | Product Owner |
+| Paola Salvatierra | QA Tester |
+| Sheyla Lamilla | Scrum Master |
 
-## Historia de Usuario
-1.1 Mantenimiento de productos
+---
 
-Como:Usuario
-Quiero:Poder crear, modificar y eliminar información de los productos
-Para:Tener actualizado la información de los productos que ofrecemos hacia los clientes 
+# Requerimiento
 
-## Tareas
+## Módulo de Inventarios
+
+Desarrollar microservicios que permitan gestionar todas las funcionalidades correspondientes al control de inventario de productos y mantenimiento de los mismos.
+
+### Alcance
+- Ingreso de productos por compras a proveedores o devoluciones de clientes
+- Egreso de productos por ventas a clientes o devoluciones a proveedores
+- Reportes de stock
+- Reportes de productos más vendidos
+
+---
+
+# Épica
+
+## Servicios para mantenimiento de productos
+
+Desarrollar servicios backend que permitan crear, modificar y eliminar la información de los productos.
+
+---
+
+# Historia de Usuario
+
+## HU 1.1 - Mantenimiento de Productos
+
+### Como:
+Usuario
+
+### Quiero:
+Poder crear, modificar y eliminar información de los productos.
+
+### Para:
+Mantener actualizada la información de los productos ofrecidos a los clientes.
+
+---
+
+# Desarrollo de Tareas
+
+## Tareas del Sprint
 - Implementar la estructura de la base de datos
 - Implementar la creación del producto
-- Validación de Producto
+- Realizar validación de productos
 
-# Evidencia Backlog del Proyecto
-![Taller_Scrum](sprint_backlog.png)
+---
 
+# Evidencia del Backlog del Proyecto
 
-## Equipo de Trabajo
-Alexi Lamilla -  Desarrollador
-Jersson Lamilla - Product Owner
-Paola Salvatierra - QA Tester
-Sheyla Lamilla - Scrum Master
+![Backlog del Proyecto](sprint_backlog.png)
 
-# Evidencia Spring Backlog del Desarrollador
-![Taller_Scrum](sprint_desarrollador.png)
+---
 
-# Evidencia Spring Backlog del QA
-![Taller_Scrum](sprint_qa.png)
+# Evidencia Sprint Backlog del Desarrollador
 
+![Sprint Desarrollador](sprint_desarrollador.png)
 
+---
+
+# Evidencia Sprint Backlog del QA
+
+![Sprint QA](sprint_qa.png)
+
+---
+
+# Conclusión
+
+El proyecto fue organizado utilizando metodología Scrum, permitiendo gestionar de manera eficiente las tareas, roles y actividades relacionadas con el desarrollo del sistema de inventario y facturación electrónica.
